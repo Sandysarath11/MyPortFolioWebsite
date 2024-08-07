@@ -9,7 +9,7 @@ const routes =[
 
     {
     path:'/',
-    component: about
+    component: contact
     },
 
     {
@@ -28,8 +28,8 @@ const routes =[
     },
 
     {
-        path: '/contact',
-        component: contact
+        path: '/about',
+        component: about
     }
 
 ]
