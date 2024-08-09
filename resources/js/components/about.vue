@@ -34,6 +34,35 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="row mt-3">
+                                    <div class="col-md-4">
+                                        <div class="border rounded-pill text-center" style="width: 180px;height: 50px;">
+                                            <p style="font-size: 20px;margin-top: 8px;">BOOTSTRAP</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="border rounded-pill text-center" style="width: 180px;height: 50px;">
+                                            <p style="font-size: 20px;margin-top: 8px;">PHP</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="border rounded-pill text-center" style="width: 180px;height: 50px;">
+                                            <p style="font-size: 20px;margin-top: 8px;">YII</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row mt-3">
+                                    <div class="col-md-4">
+                                        <div class="border rounded-pill text-center" style="width: 180px;height: 50px;">
+                                            <p style="font-size: 20px;margin-top: 8px;">LARAVEL</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="border rounded-pill text-center" style="width: 180px;height: 50px;">
+                                            <p style="font-size: 20px;margin-top: 8px;">VUE JS</p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
